@@ -1,2 +1,1 @@
 # hotel_demo
-zmiana
